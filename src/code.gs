@@ -13,9 +13,9 @@ function registerAll() {
 }
 
 function cancelAll() {
-  Browser.msgBox("bb2");
+  Browser.msgBox("bb1");
 }
 
 function myFunction() {
-  Logger.log("aaa")
+  Logger.log("aaa1")
 }

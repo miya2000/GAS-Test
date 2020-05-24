@@ -1,5 +1,5 @@
 function registerAll() {
-  Browser.msgBox("aa1");
+  Browser.msgBox("aa2");
 }
 
 function cancelAll() {
@@ -8,4 +8,5 @@ function cancelAll() {
 
 function myFunction2() {
   Logger.log("aaa2")
+  myFunction();
 }
