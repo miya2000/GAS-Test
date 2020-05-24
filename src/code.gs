@@ -9,11 +9,11 @@ function onOpen() {
 }
 
 function registerAll() {
-  Browser.msgBox("aa");
+  Browser.msgBox("aa1");
 }
 
 function cancelAll() {
-  Browser.msgBox("bb");
+  Browser.msgBox("bb2");
 }
 
 function myFunction() {
