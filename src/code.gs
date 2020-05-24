@@ -1,5 +1,5 @@
 function onOpen() {
-  Browser.msgBox("aa");
+  Browser.msgBox("111");
   SpreadsheetApp
     .getActiveSpreadsheet()
     .addMenu('テスト', [
