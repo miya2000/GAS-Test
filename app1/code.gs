@@ -17,5 +17,5 @@ function cancelAll() {
 }
 
 function myFunction() {
-  Logger.log("aaa1")
+  Logger.log("aaa1");
 }
